@@ -1,0 +1,32 @@
+[
+    {
+        "Title": "aaa",
+        "Authors": "sss",
+        "ISBN": 4938025462,
+        "Publishing Year": 2021,
+        "Price": 110.0,
+        "Quantity": 4,
+        "Date Added": "2024-12-13 23:39:11",
+        "Date Updated": "2024-12-13 23:39:11"
+    },
+    {
+        "Title": "abc",
+        "Authors": "def",
+        "ISBN": 9215663937,
+        "Publishing Year": 2022,
+        "Price": 220.0,
+        "Quantity": 3,
+        "Date Added": "2024-12-13 23:38:56",
+        "Date Updated": "2024-12-13 23:38:56"
+    },
+    {
+        "Title": "sss",
+        "Authors": "ddd",
+        "ISBN": 7469110387,
+        "Publishing Year": 2023,
+        "Price": 333.0,
+        "Quantity": 5,
+        "Date Added": "2024-12-13 23:39:26",
+        "Date Updated": "2024-12-13 23:40:13"
+    }
+]
